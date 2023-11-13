@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="NA">N/A</string>
+    <string name="contacts_found">%1$d contacts_found</string>
+    <string name="cant_get_contacts">Can not show contacts</string>
+    <string name="image_description">contact image</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/chatFrag"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:name="com.android_hw.hw4.fragments.ChatFragment"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/messageListLand"/>
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/messageListLand"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:name="com.android_hw.hw4.fragments.HomeFragment"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/chatFrag"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

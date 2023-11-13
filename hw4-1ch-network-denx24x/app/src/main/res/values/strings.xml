@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw4</string>
+    <string name="image_description">image</string>
+    <string name="fullImageDescription">TODO</string>
+    <string name="editTextHint">editTextHint</string>
+    <string name="PickImageDescription">PickImageDescription</string>
+    <string name="RefreshDescription">RefreshDescription</string>
+    <string name="SendDesctiption">SendDesctiption</string>
+</resources>

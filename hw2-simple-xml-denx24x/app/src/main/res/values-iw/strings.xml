@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hw2</string>
+    <string name="password">סיסמה</string>
+    <string name="email">אימייל</string>
+    <string name="submit">שלח</string>
+    <string name="errorLogin">כניסה לא צוינה</string>
+    <string name="errorPassword">לא צוינה סיסמה</string>
+    <string name="errorLoginOrPassword">שם משתמש או סיסמא שגויים</string>
+    <string name="wrongEmail">מייל שגוי</string>
+</resources>

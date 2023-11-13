@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hw2</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="errorLogin">Login not specified</string>
+    <string name="errorPassword">Password not specified</string>
+    <string name="errorLoginOrPassword">Wrong login or password</string>
+    <string name="wrongEmail">Wrong email</string>
+</resources>

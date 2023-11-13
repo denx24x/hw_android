@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hw2</string>
+    <string name="password">пароль</string>
+    <string name="email">почта</string>
+    <string name="submit">отправить</string>
+    <string name="errorLogin">Не указан логин</string>
+    <string name="errorPassword">Не указан пароль</string>
+    <string name="errorLoginOrPassword">Неверный логин или пароль</string>
+    <string name="wrongEmail">Некорретная почта</string>
+</resources>
